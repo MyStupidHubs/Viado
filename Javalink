@@ -1,8 +1,8 @@
 import discord
 from discord.ext import commands
 
-TOKEN = 'SEU_TOKEN_DO_BOT'
-GUILD_ID = SEU_GUILD_ID  # Exemplo: 123456789012345678
+TOKEN = ''
+GUILD_ID = 1083951594837647381  # Exemplo: 123456789012345678
 USER_ID = 810160880087597076  # ID do Vinicius
 
 intents = discord.Intents.default()
